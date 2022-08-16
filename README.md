@@ -1,7 +1,7 @@
 # SNHU-CS-250
 ## Software Development Lifecycle Course
 ### How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
-The foundation of any agile development project is the usage of user stories, which depict the product vision through a collection of "stories" that describe the requirements and expectations of the target audience. Then, testers can check to see if the predicted outputs and inputs match.
+The term "user story" refers to a casual, all-encompassing explanation of a software feature written from the viewpoint of the end user. Its goal is to describe the benefits that a software feature will offer to the client or end user.
 # How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
 Instead of doing extensive upfront planning that can fail and create issues, I'd like to test the idea of planning lightly and developing a working product that I can then test and conduct a series of evolving releases.
 # What does it mean to be a good team member in software development?
